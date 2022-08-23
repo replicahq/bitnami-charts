@@ -13,6 +13,7 @@ $ helm search repo bitnami
 $ helm install my-release bitnami/<chart>
 ```
 
+
 ![Installing a chart](demo.gif)
 
 ## Vulnerabilities scanner
